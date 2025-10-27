@@ -1,0 +1,10 @@
+openai-whisper
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-google-genai
+langchain-chroma>=0.1.2
+streamlit
+pyngrok
+sentence-transformers
