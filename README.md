@@ -1,4 +1,4 @@
-## Audio Question-Answering App
+## 🗣️ Audio Question-Answering App
 
 This project demonstrates how to build an **Audio Question-Answering App** using **Streamlit**, **Whisper**, and **LangChain**.  
 The app allows you to upload an audio or video file, automatically **transcribe** its content, and then **ask questions** about the transcription using **Google’s Gemini model**.
