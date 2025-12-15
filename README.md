@@ -48,5 +48,6 @@ By the end of this project, you will have a fully functional system that combine
 4. Run the app:
     ```bash
     streamlit run app.py
+__
 
-**Yassine DARIF** | INSEA-2025
+*Developed by Yassine DARIF - 2025*
