@@ -1,7 +1,7 @@
-## 🗣️ Audio Question-Answering App
+## 🗣️ RAG Audio Assistant
 
-This project demonstrates how to build an **Audio Question-Answering App** using **Streamlit**, **Whisper**, and **LangChain**.  
-The app allows you to upload an audio or video file, automatically **transcribe** its content, and then **ask questions** about the transcription using **Google’s Gemini model**.
+Ce projet illustre la création d’un chatbot RAG (Retrieval-Augmented Generation) pour questions-réponses audio.
+L’objectif est de permettre à l’utilisateur de téléverser un fichier audio ou vidéo, d’extraire et indexer son contenu, puis de poser des questions sur ce contenu avec des réponses contextuelles générées par un modèle de langage.
 
 ### a. Key Features
 - **Audio/Video transcription** using OpenAI Whisper  
